@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment=" First Program Assignment">
-      <change afterPath="$PROJECT_DIR$/CafeJava/CafeJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CafeJava/src/JavaCafe.java" afterDir="false" />
+    <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment="Alfred Bot Assignment">
+      <change afterPath="$PROJECT_DIR$/AlfredBot/AlfredBot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlfredBot/src/AlfredQuotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlfredBot/src/AlfredTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -38,7 +39,14 @@
     "jdk.selected.JAVA_MODULE": "16"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AlfredTest">
+    <configuration name="AlfredTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlfredTest" />
+      <module name="AlfredBot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaCafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaCafe" />
       <module name="CafeJava" />
@@ -48,6 +56,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlfredTest" />
         <item itemvalue="Application.JavaCafe" />
       </list>
     </recent_temporary>
@@ -75,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658054500611</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cafe Java Assignment">
+      <created>1658058000657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658058000657</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +107,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" First Program Assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value=" First Program Assignment" />
+    <MESSAGE value="Cafe Java Assignment" />
+    <MESSAGE value="Alfred Bot Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alfred Bot Assignment" />
   </component>
 </project>

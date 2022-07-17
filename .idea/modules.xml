@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlfredBot/AlfredBot.iml" filepath="$PROJECT_DIR$/AlfredBot/AlfredBot.iml" />
       <module fileurl="file://$PROJECT_DIR$/CafeJava/CafeJava.iml" filepath="$PROJECT_DIR$/CafeJava/CafeJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" filepath="$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDA-CodingDojo-Java.iml" filepath="$PROJECT_DIR$/SDA-CodingDojo-Java.iml" />
