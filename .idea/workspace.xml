@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment="Cafe Business Logic Assignment">
-      <change afterPath="$PROJECT_DIR$/CafeBusinessLogic/CafeBusinessLogic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CafeBusinessLogic/src/CafeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CafeBusinessLogic/src/TestCafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrdersAndItems/OrdersAndItems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrdersAndItems/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrdersAndItems/src/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrdersAndItems/src/TestOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -44,7 +45,7 @@
       <recent name="$PROJECT_DIR$/CafeBusinessLogic/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCafe">
+  <component name="RunManager" selected="Application.TestOrder">
     <configuration name="AlfredTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlfredTest" />
       <module name="AlfredBot" />
@@ -66,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestOrder" />
+      <module name="OrdersAndItems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestOrder" />
         <item itemvalue="Application.TestCafe" />
         <item itemvalue="Application.AlfredTest" />
         <item itemvalue="Application.JavaCafe" />
@@ -111,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658063588283</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Cafe Business Logic Assignment">
+      <created>1658079347721</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658079347721</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
