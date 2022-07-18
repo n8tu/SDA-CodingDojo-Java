@@ -20,9 +20,6 @@ public class Order {
         }
     }
 
-    public void removeFromCart(Item item){
-        cart.remove(item);
-    }
 
     public double getTotal(){
         double sum = 0.0;
