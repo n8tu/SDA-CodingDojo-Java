@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment="Cafe Business Logic Assignment">
-      <change afterPath="$PROJECT_DIR$/OrdersAndItems/OrdersAndItems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrdersAndItems/src/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrdersAndItems/src/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrdersAndItems/src/TestOrder.java" afterDir="false" />
+    <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment="Orders &amp; Items Assignment">
+      <change afterPath="$PROJECT_DIR$/BankAccount/BankAccount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankAccount/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankAccount/src/BankAccountTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -45,10 +44,17 @@
       <recent name="$PROJECT_DIR$/CafeBusinessLogic/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestOrder">
+  <component name="RunManager" selected="Application.BankAccountTest">
     <configuration name="AlfredTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlfredTest" />
       <module name="AlfredBot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
+      <module name="BankAccount" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankAccountTest" />
         <item itemvalue="Application.TestOrder" />
         <item itemvalue="Application.TestCafe" />
         <item itemvalue="Application.AlfredTest" />
@@ -127,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658079347721</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Orders &amp; Items Assignment">
+      <created>1658162666569</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658162666569</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,7 +160,8 @@
     <MESSAGE value="Cafe Java Assignment" />
     <MESSAGE value="Alfred Bot Assignment" />
     <MESSAGE value="Cafe Business Logic Assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cafe Business Logic Assignment" />
+    <MESSAGE value="Orders &amp; Items Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Orders &amp; Items Assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
