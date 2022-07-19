@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment="Coffeedore 64 Assignment">
-      <change afterPath="$PROJECT_DIR$/ZooKeeperPart1/ZooKeeperPart1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZooKeeperPart1/src/Gorilla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZooKeeperPart1/src/GorillaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZooKeeperPart1/src/Mammal.java" afterDir="false" />
+    <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment="Zoo Keeper: Part 1 Assignment">
+      <change afterPath="$PROJECT_DIR$/ZooKeeperPart2/ZooKeeperPart2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZooKeeperPart2/src/com/zookeeper/part2/Bat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZooKeeperPart2/src/com/zookeeper/part2/BatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZooKeeperPart2/src/com/zookeeper/part2/Mammal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -47,11 +47,27 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CafeBusinessLogic/src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zookeeper.part2" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.GorillaTest">
+  <component name="RunManager" selected="Application.BatTest">
     <configuration name="BankAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
       <module name="BankAccount" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zookeeper.part2.BatTest" />
+      <module name="ZooKeeperPart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zookeeper.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,20 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestOrder" />
-      <module name="OrdersAndItems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BatTest" />
         <item itemvalue="Application.GorillaTest" />
         <item itemvalue="Application.TestApp (1)" />
         <item itemvalue="Application.TestApp" />
         <item itemvalue="Application.BankAccountTest" />
-        <item itemvalue="Application.TestOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658183020399</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Zoo Keeper: Part 1 Assignment">
+      <created>1658220707265</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658220707265</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,7 +204,8 @@
     <MESSAGE value="Orders &amp; Items Assignment" />
     <MESSAGE value="BankAccount Assignment" />
     <MESSAGE value="Coffeedore 64 Assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coffeedore 64 Assignment" />
+    <MESSAGE value="Zoo Keeper: Part 1 Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zoo Keeper: Part 1 Assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/OrdersAndItems/OrdersAndItems.iml" filepath="$PROJECT_DIR$/OrdersAndItems/OrdersAndItems.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDA-CodingDojo-Java.iml" filepath="$PROJECT_DIR$/SDA-CodingDojo-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZooKeeperPart1/ZooKeeperPart1.iml" filepath="$PROJECT_DIR$/ZooKeeperPart1/ZooKeeperPart1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZooKeeperPart2/ZooKeeperPart2.iml" filepath="$PROJECT_DIR$/ZooKeeperPart2/ZooKeeperPart2.iml" />
     </modules>
   </component>
 </project>
