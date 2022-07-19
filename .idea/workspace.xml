@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment="Coffeedore 64 Assignment">
-      <change beforePath="$PROJECT_DIR$/Coffeedore64/src/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coffeedore64/src/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZooKeeperPart1/ZooKeeperPart1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZooKeeperPart1/src/Gorilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZooKeeperPart1/src/GorillaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZooKeeperPart1/src/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2C4EUqGJwSeCXO37kMfV4llfttH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -27,27 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "16"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;16&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CafeBusinessLogic/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestApp">
-    <configuration name="AlfredTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlfredTest" />
-      <module name="AlfredBot" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.GorillaTest">
     <configuration name="BankAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
       <module name="BankAccount" />
@@ -55,16 +56,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestApp" />
-      <module name="Coffeedore64" />
+    <configuration name="GorillaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GorillaTest" />
+      <module name="ZooKeeperPart1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestCafe" />
-      <module name="CafeBusinessLogic" />
+    <configuration name="TestApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestApp" />
+      <module name="ZooKeeperPart1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestApp" />
+      <module name="Coffeedore64" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GorillaTest" />
+        <item itemvalue="Application.TestApp (1)" />
         <item itemvalue="Application.TestApp" />
         <item itemvalue="Application.BankAccountTest" />
         <item itemvalue="Application.TestOrder" />
-        <item itemvalue="Application.TestCafe" />
-        <item itemvalue="Application.AlfredTest" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658182984027</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Coffeedore 64 Assignment">
+      <created>1658183020399</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658183020399</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

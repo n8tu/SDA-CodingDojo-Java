@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" filepath="$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrdersAndItems/OrdersAndItems.iml" filepath="$PROJECT_DIR$/OrdersAndItems/OrdersAndItems.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDA-CodingDojo-Java.iml" filepath="$PROJECT_DIR$/SDA-CodingDojo-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZooKeeperPart1/ZooKeeperPart1.iml" filepath="$PROJECT_DIR$/ZooKeeperPart1/ZooKeeperPart1.iml" />
     </modules>
   </component>
 </project>
