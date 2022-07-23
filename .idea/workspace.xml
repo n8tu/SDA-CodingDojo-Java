@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment="Calculator Part I Assignment">
+    <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment="Hello Human Assignment">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -64,7 +64,7 @@
       <recent name="com.zookeeper.part2" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.HelloHumanApplication">
+  <component name="RunManager" selected="Spring Boot.DaikichiPathVariablesApplication">
     <configuration name="BankAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
       <module name="BankAccount" />
@@ -95,6 +95,13 @@
     <configuration name="TestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestApp" />
       <module name="CalculatorPart1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaikichiPathVariablesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DaikichiPathVariables" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.daikichipathvariables.DaikichiPathVariablesApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658053474367</updated>
       <workItem from="1658576000525" duration="12454000" />
-      <workItem from="1658591513221" duration="2451000" />
+      <workItem from="1658591513221" duration="3536000" />
     </task>
     <task id="LOCAL-00001" summary=" First Program Assignment">
       <created>1658054492688</created>
@@ -231,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658576604409</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Hello Human Assignment">
+      <created>1658594016653</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1658594016653</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Hello Human Assignment">
+      <created>1658594060037</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658594060037</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +281,8 @@
     <MESSAGE value="Zoo Keeper: Part 2 Assignment" />
     <MESSAGE value="CareSoft Interfaces Assignment" />
     <MESSAGE value="Calculator Part I Assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculator Part I Assignment" />
+    <MESSAGE value="Hello Human Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello Human Assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
