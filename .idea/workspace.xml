@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment="Zoo Keeper: Part 2 Assignment">
-      <change afterPath="$PROJECT_DIR$/CareSoftInterfaces/CareSoftInterfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CareSoftInterfaces/src/com/caresoft/clinicapp/AdminUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CareSoftInterfaces/src/com/caresoft/clinicapp/HIPAACompliantAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CareSoftInterfaces/src/com/caresoft/clinicapp/HIPAACompliantUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CareSoftInterfaces/src/com/caresoft/clinicapp/Physician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CareSoftInterfaces/src/com/caresoft/clinicapp/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CareSoftInterfaces/src/com/caresoft/clinicapp/User.java" afterDir="false" />
+    <list default="true" id="9e0d3e17-5a73-46e6-adc8-5c91015e947e" name="Changes" comment="CareSoft Interfaces Assignment">
+      <change afterPath="$PROJECT_DIR$/CalculatorPart1/CalculatorPart1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorPart1/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorPart1/src/TestApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,18 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;16&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "16",
+    "last_opened_file_path": "/Users/faisal./Desktop/Programming/SDA-CodingDojo-Java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CafeBusinessLogic/src" />
@@ -59,7 +57,7 @@
       <recent name="com.zookeeper.part2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.TestApp">
     <configuration name="BankAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
       <module name="BankAccount" />
@@ -100,20 +98,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestApp" />
-      <module name="ZooKeeperPart1" />
+      <module name="CalculatorPart1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestApp" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.BankAccountTest" />
         <item itemvalue="Application.BatTest" />
         <item itemvalue="Application.GorillaTest" />
-        <item itemvalue="Application.TestApp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658053474367</updated>
+      <workItem from="1658576000525" duration="590000" />
     </task>
     <task id="LOCAL-00001" summary=" First Program Assignment">
       <created>1658054492688</created>
@@ -203,8 +202,18 @@
       <option name="project" value="LOCAL" />
       <updated>1658228395470</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="CareSoft Interfaces Assignment">
+      <created>1658504513562</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658504513562</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -227,7 +236,8 @@
     <MESSAGE value="Coffeedore 64 Assignment" />
     <MESSAGE value="Zoo Keeper: Part 1 Assignment" />
     <MESSAGE value="Zoo Keeper: Part 2 Assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zoo Keeper: Part 2 Assignment" />
+    <MESSAGE value="CareSoft Interfaces Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="CareSoft Interfaces Assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
